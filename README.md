@@ -64,6 +64,10 @@ To access secure endpoints, provide an authentication token in the request heade
 
 The API implements rate limiting to prevent abuse. Requests are limited to a specific rate within a time window.
 
+## Link For Brief Documentation
+
+[ Link For API ](https://documenter.getpostman.com/view/28607884/2s9Y5SVkNu)
+
 ## Contributing
 
 Contributions are welcome! If you find a bug or want to suggest an improvement, please open an issue or submit a pull request.
